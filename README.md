@@ -1,5 +1,4 @@
-# SmartServ-Coding-Assignment
-Task-1
+# SmartServ-Coding-Assignment Task-1
 
 Json file is parsed and the data is displayed in a table  with Title, Price ordered based on the descending popularity.
 It took around 15-20 minutes for this task.
